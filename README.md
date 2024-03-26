@@ -4,26 +4,26 @@
   <img src="https://github.com/Willy-Nyawira/Willy-Nyawira/blob/master/Images/Icons/avatar.jfif" width="200" height="200">
 </p>
 
-### Actuary | Software Developer
+### Financial analyst | Software Developer|Oracle specialist
 
-*I create algorithms and models that help computers learn from data and make forecasts, resulting in valuable business insights.*
+* I design, create, test, and maintain software applications or systems.*
 
 ---
 ### Profile Summary
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Willy-nyawira&label=Profile%20views&color=0e75b6&style=flat" alt="Willy-nyawira" /> </p>
-As a dedicated actuary with a strong background in financial modeling, valuation analysis, and business intelligence, I am driven by a passion for leveraging technology to tackle complex challenges. My diverse skill set includes expertise in statistics, mathematics, and data science, complemented by hands-on experience in software development.
+Experienced finance graduate and skilled software developer with expertise in statistics, mathematics, and data analytics, specializing in backend development with Oracle technologies. Passionate about technology and innovation at large, I bring a dynamic blend of analytical acumen, technical proficiency, and a forward-thinking mindset to the table.
 
-**Actuarial and Financial Expertise:**
-With a focus on actuarial science, I have successfully completed the Financial Modeling and Valuation Analyst (FMVA) certification, demonstrating proficiency in financial modeling, business forecasting, and valuation techniques. My analytical skills extend to risk assessment, ensuring informed decision-making in financial contexts.
+Quantitative Analysis and Data Analytics: Proficient in statistics, mathematics, and data analytics, I excel in deriving actionable insights from complex datasets. My expertise in quantitative analysis enables me to uncover valuable trends and patterns that drive informed decision-making and business growth.
 
-**Data Science and Business Intelligence:**
-In addition to my actuarial background, I bring a wealth of experience in data science and business intelligence. I have applied advanced statistical methods, machine learning, and natural language processing (NLP) to derive meaningful insights from data. My portfolio showcases projects that demonstrate my ability to harness data for strategic decision-making.
+Software Development and Oracle Proficiency: As a seasoned software developer, I specialize in backend development with a focus on Oracle technologies. Leveraging my skills in Oracle databases and backend development, I design and implement efficient and scalable systems that support data-driven decision-making and organizational success.
 
-**Continuous Learning and Growth:**
-Embracing a mindset of lifelong learning, I stay abreast of industry trends and advancements. My commitment to personal and professional growth is reflected in my proactive approach to acquiring new skills and exploring emerging technologies.
+Passion for Technology and Innovation: With a deep-seated passion for technology and innovation, I am driven to explore emerging trends and leverage cutting-edge tools and techniques to solve complex challenges. I thrive in dynamic environments where I can contribute my expertise to drive innovation and create transformative solutions.
 
-**Collaboration and Impact:**
-I am dedicated to making a meaningful impact at the intersection of actuarial science, data science, and software development. My GitHub portfolio showcases my contributions and projects, demonstrating my commitment to excellence. If you share a vision for collaborative innovation and lasting impact, I invite you to reach out for potential collaboration at 📫 nyawiramwangi394@gmail.com.
+Continuous Learning and Growth: Committed to lifelong learning, I actively pursue opportunities to expand my knowledge and skills in both finance and technology domains. I stay updated on the latest trends and advancements in statistics, mathematics, data analytics, and software development to remain at the forefront of industry innovation.
+
+Collaboration and Impact: Enthusiastic about collaborative problem-solving, I thrive in team environments where I can contribute my expertise to drive impactful solutions. My GitHub portfolio showcases my technical skills and project contributions, demonstrating my commitment to excellence and collaborative innovation.
+
+Let's connect and explore opportunities to leverage my expertise in statistics, mathematics, data analytics, and technology to drive innovation and create value.Feel free out at 📫 gatierehema@gmail.com.
 
 Let's embark on a journey of mutual growth and professional advancement.
 
@@ -31,20 +31,26 @@ Let's embark on a journey of mutual growth and professional advancement.
 
 #### Professional Links:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/willynyawira/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Willy-Nyawira)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rehema-gati-wanda
+
+/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/wandarehema)
 
 
 ---
 ## Domains of Interests & Expertise
-:comet: Actuarial Science <br>
+:comet: Finance <br>
 :comet: Statistics <br>
-:comet: FMVA <br>
+:comet: sql/plsql<br>
 :comet: Software Developer <br>
 :comet: Business Intelligence <br>
 :comet: Data Analysis <br>
 :comet: Database Administration <br>
-:comet: Banking <br>
+:comet: Oracle <br>
+:comet: java <br>
+:comet: javascript <br>
+
+
 
 ---
 ## Skills 
