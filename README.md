@@ -10,7 +10,7 @@
 
 ---
 ### Profile Summary
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Willy-nyawira&label=Profile%20views&color=0e75b6&style=flat" alt="Willy-nyawira" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wandarehema&label=Profile%20views&color=0e75b6&style=flat" alt="Wandarehema" /> </p>
 Experienced finance graduate and skilled software developer with expertise in statistics, mathematics, and data analytics, specializing in backend development with Oracle technologies. Passionate about technology and innovation at large, I bring a dynamic blend of analytical acumen, technical proficiency, and a forward-thinking mindset to the table.
 
 Quantitative Analysis and Data Analytics: Proficient in statistics, mathematics, and data analytics, I excel in deriving actionable insights from complex datasets. My expertise in quantitative analysis enables me to uncover valuable trends and patterns that drive informed decision-making and business growth.
